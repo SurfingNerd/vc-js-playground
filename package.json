@@ -19,7 +19,9 @@
   ],
   "author": "thomas.haller@lab10.coop",
   "license": "GPL-3.0-or-later",
-  "dependencies": {},
+  "dependencies": {
+    "vc-js": "^0.5.0"
+  },
   "devDependencies": {
     "mocha": "^6.2.0",
     "ts-node-dev": "^1.0.0-pre.40",
